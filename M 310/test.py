@@ -1,5 +1,3 @@
-# test.py
-
 import pickle
 from fibonacci import generate_fibonacci
 
